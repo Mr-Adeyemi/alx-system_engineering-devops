@@ -1,1 +1,1 @@
-script that lists all files
+Create a symbolic link to /bin/ls, named __ls__
